@@ -29,6 +29,11 @@ url: "https://mertsalov.github.io" # the base hostname & protocol for your site,
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# Author Info
+author_name:        "Alexander Mertsalov" # Your name here
+author_email:       mertsalov@mail.ru # Your email here
+author_gravatar:    6c3556b711b292f48fd40af707790ae4 # Your Gravatar md5 hash here for logo
+
 # Build settings
 theme: minima
 show_excerpts: true
